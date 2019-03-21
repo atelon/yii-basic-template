@@ -1,0 +1,12 @@
+{
+  "API_VERSION": "2",
+  "BOX": "Atelon/centos7-dev-box",
+  "CHECK_UPDATE": true,
+  "MACHINE_NAME": "yii-custom-template",
+  "VIRTUALBOX_PROVIDER": {
+    "cpus": 1,
+    "memory": "512",
+    "linked_clone": false
+  },
+  "BOX_PLUGINS": []
+}
